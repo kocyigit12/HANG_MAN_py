@@ -16,11 +16,11 @@ for i in range(0 ,len(random_word)):
 print(art.logo)
 print("HANG MAN GAME !!\n")
 print(blank)
-print(random_word)
-print(chosen_list)
+# print(random_word)
+# print(chosen_list)
 
 health =len(random_word)
-print(f"your health {health}")
+print(f"your health : {health}")
 
 
 
